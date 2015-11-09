@@ -1,0 +1,8 @@
+br\com\jemoliveira\repository\ServiceOrderRepository.class
+br\com\jemoliveira\model\ServiceOrder.class
+br\com\jemoliveira\service\ItemService.class
+br\com\jemoliveira\model\Item.class
+br\com\jemoliveira\vo\OrderVO.class
+br\com\jemoliveira\repository\ItemRepository.class
+br\com\jemoliveira\service\ServiceOrderService.class
+br\com\jemoliveira\controller\HomeController.class
