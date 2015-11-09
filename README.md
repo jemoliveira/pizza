@@ -5,3 +5,6 @@ pizza/src/main/tomcat/conf/sql
 
 # Para rodar o projeto voce deve seguir esses passos
 clean install tomcat7:run
+
+# Para logar na aplicação
+http://localhost:8081/pizza
